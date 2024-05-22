@@ -5,7 +5,7 @@ For lab member use:
 - Current  LAN IP in PKU [http://10.128.243.62/](http://10.128.243.62/)
 - this is a dynamic address, which means it may change after reboot
 ## Login,  account data management
-See instructions in the [SSH&DataManagement.md](https://github.com/ZenghuPKU/zenglab_server/SSH%26DataManagement.md) page
+This part is important, please see instructions in the [SSH&DataManagement.md](https://github.com/ZenghuPKU/zenglab_server/blob/main/SSH%26DataManagement.md) page
 
 ## Environment with Conda
 
@@ -34,8 +34,9 @@ conda activate publiccenv
 
 ## Jupyterlab on server
 - Directly available (`http` not `https`): [http://10.128.243.62:8000](http://10.128.243.62:8000)
-- See instructions on the [Jupyter.md](https://github.com/ZenghuPKU/zenglab_serverJupyter.md)(To be continued)
+- See instructions on the [Jupyter.md](https://github.com/ZenghuPKU/zenglab_server/blob/main/Jupyter.md
+- )(To be continued)
 ## RStudio server
 
 - Directly available (`http` not `https`): [http://10.128.243.62:8787](http://10.128.243.62:8787)
-- See instructions on the [R.md](https://github.com/ZenghuPKU/zenglab_server/R.md) page (To be continued)
+- See instructions on the [R.md](https://github.com/ZenghuPKU/zenglab_server/blob/main/R.md) page (To be continued)
