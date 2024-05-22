@@ -5,7 +5,7 @@ For lab member use:
 - Current  LAN IP in PKU [http://10.128.243.62/](http://10.128.243.62/)
 - this is a dynamic address, which means it may change after reboot
 ## Login,  account data management
-See instructions in the [SSH&DataManagement.md](https://github.com/ZenghuPKU/zenglab_server/SSH&DataManagement.md) page
+See instructions in the [SSH&DataManagement.md](https://github.com/ZenghuPKU/zenglab_server/SSH%26DataManagement.md) page
 
 ## Environment with Conda
 
