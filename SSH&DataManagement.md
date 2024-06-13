@@ -4,7 +4,7 @@ You need to have an account in the server first. Contact Chen.
 You can login the server via [ssh](https://en.wikipedia.org/wiki/Secure_Shell) by the following command line in your terminal:
 
 ```batchfile
-ssh 10.128.243.62
+ssh YourUserName@10.128.243.62
 ```
 
 Alternatively, you can configure the ssh in your local file `~/.ssh/config` (you may need to make the `~/.ssh` folder first), and add the following lines:
